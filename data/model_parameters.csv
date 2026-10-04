@@ -1,0 +1,18 @@
+Parameter,Value,Unit
+Working fluid,CO2,
+Compressor inlet temperature,35,degC
+Turbine inlet temperature,150,degC
+Selected low pressure for later studies,85,bar
+Selected high pressure for later studies,160,bar
+Mass flow rate,20,kg_per_s
+Compressor isentropic efficiency,0.8,fraction
+Turbine isentropic efficiency,0.85,fraction
+Recuperator effectiveness,0.8,fraction
+PV system size,1.0,MWp
+PV performance ratio,0.85,fraction
+Full year hybrid geothermal power,0.24,MW
+Full year fixed electric load,0.3,MW
+Full year battery energy,8.0,MWh
+Full year battery power,0.2,MW
+Battery charge efficiency,0.95,fraction
+Battery discharge efficiency,0.95,fraction

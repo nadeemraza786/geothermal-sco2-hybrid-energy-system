@@ -1,0 +1,6 @@
+Metric,Value,Unit
+Selected cycle pressure ratio,1.8823529411764706,dimensionless
+Approximate 95 percent pressure ramp time,44.935984103309856,min
+Approximate 95 percent turbine inlet temperature ramp time,59.914645471079815,min
+Approximate 95 percent mass flow ramp time,29.957322735539908,min
+Battery nominal duration at rated power,40.0,h
